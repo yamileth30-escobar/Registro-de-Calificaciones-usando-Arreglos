@@ -11,10 +11,9 @@ calcula el promedio individual y muestra los resultados en pantalla.
 🌐 Entrada de datos por teclado
 🌐 Salida clara y ordenada
 
-## Grupo
-Equipo de trabajo Grupo 6 👨‍💻
+## Grupo 6 👨‍💻
 María Guadalupe Canjura Díaz: guadalupe-a11y 
 Mallerli Yamileth Ventura Escobar: yamileth30-escobar 
 José Angel Gutierrez cortez: JAGC60 
 Luis Ángel Escobar Leiva: Luisescobar123
-Noe Steve Mejía Hernandez: 
+Noe Steve Mejía Hernandez: Steve11xx
